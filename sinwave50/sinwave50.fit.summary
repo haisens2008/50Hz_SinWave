@@ -1,0 +1,9 @@
+Fitter Status : Successful - Thu Jul 11 20:11:17 2019
+Quartus II Version : 11.0 Build 157 04/27/2011 SJ Full Version
+Revision Name : sinwave50
+Top-level Entity Name : sinwave50
+Family : MAX7000S
+Device : EPM7128SLC84-10
+Timing Models : Final
+Total macrocells : 59 / 128 ( 46 % )
+Total pins : 49 / 68 ( 72 % )

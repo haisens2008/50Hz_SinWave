@@ -1,0 +1,30 @@
+|sinwave50
+clk => b_xfer~reg0.CLK
+clk => b_ile~reg0.CLK
+clk => b_wr2~reg0.CLK
+clk => b_wr1~reg0.CLK
+clk => b_cs~reg0.CLK
+clk => b_ce~reg0.CLK
+clk => b_oe~reg0.CLK
+clk => a_xfer~reg0.CLK
+clk => a_ile~reg0.CLK
+clk => a_wr2~reg0.CLK
+clk => a_wr1~reg0.CLK
+clk => a_cs~reg0.CLK
+clk => a_ce~reg0.CLK
+clk => a_oe~reg0.CLK
+clk => cnt[0].CLK
+clk => cnt[1].CLK
+clk => cnt[2].CLK
+clk => cnt[3].CLK
+clk => cnt[4].CLK
+clk => cnt[5].CLK
+clk => cnt[6].CLK
+clk => cnt[7].CLK
+clk => cnt[8].CLK
+clk => clk_out~reg0.CLK
+reset => ~NO_FANOUT~
+set60 => ~NO_FANOUT~
+set150 => ~NO_FANOUT~
+
+
